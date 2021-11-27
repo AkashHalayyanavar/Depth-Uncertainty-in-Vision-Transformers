@@ -1,1 +1,2 @@
 # Depth-Uncertainty-in-Vision-Transformers
+Vision transformers (ViTs) have shown successful applications in computer vision tasks recently. However, a significant drawback of such deep learning models is their inability to provide robust uncertainty estimates. In this work, we explore the idea of depth uncertainty in vision transformers and report our findings in detail. We combine ViT encoder layers with a probabilistic model for estimating uncertainty in depths. We further show an empirical comparison for studying the effects in detail.
